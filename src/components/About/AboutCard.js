@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ilham Faturahman </span>
             from <span className="purple"> Jakarta, Indonesia.</span>
             <br />
-            I am currently employed a freelance software developer on various freelance platforms such as upwork.
+            I am currently employed  as a freelance software developer on various freelance platforms such as upwork.
             <br />
             I have completed the Full Stack Developer Class at Codepolitan and Buildwithangga.
             <br />
